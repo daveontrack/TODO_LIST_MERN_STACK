@@ -27,6 +27,17 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 For deployment details, check out the [deployment documentation](https://facebook.github.io/create-react-app/docs/deployment).
 
+🐞 Troubleshooting
+npm run build Fails to Minify
+If the production build fails due to minification errors, check the troubleshooting guide for common solutions.
+
+Common Issues
+Dependency Errors: Run npm install to ensure all dependencies are installed.
+Port Conflicts: If localhost:3000 is in use, specify a different port with PORT=3001 npm start.
+Linting Errors: Run npm run lint -- --fix to automatically fix linting issues where possible.
+Test Failures: Ensure test files follow the naming convention (e.g., *.test.js) and check the testing documentation.
+
+
 ### `npm run eject`
 
 **Important**: This is a one-way operation. Once you `eject`, you cannot go back.
