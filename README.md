@@ -25,10 +25,6 @@ Built with modern web technologies.
 - 🎨 Beautiful UI with smooth animations
 
 ## 🛠️ Tech Stack
-(https://img.shields.io/badge/JavaScript-54.6-yellow?style=flat-square&logo=javascript)  
-(https://img.shields.io/badge/CSS-25.3-blue?style=flat-square&logo=css3)  
-(https://img.shields.io/badge/HTML-20.1-orange?style=flat-square&logo=html5)
-
 
 - **Frontend**: React.js (with Hooks)
 - **Styling**: CSS3/Sass with BEM methodology
