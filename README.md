@@ -94,18 +94,6 @@ src/
 └── main.jsx         # Entry point
 ```
 
-## 🎨 UI Design
-
-### Color Palette
-- Primary: `#6366f1` (Indigo)
-- Success: `#10b981` (Emerald)
-- Danger: `#ef4444` (Red)
-- Background: `#f8fafc` (Light) / `#1e293b` (Dark)
-
-### Typography
-- Main font: 'Inter', sans-serif
-- Monospace: 'Fira Code', monospace
-
 ## 🤝 Contributing
 
 We welcome contributions! Please follow these steps:
