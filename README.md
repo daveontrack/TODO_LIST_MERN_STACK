@@ -26,6 +26,11 @@ Built with modern web technologies.
 
 ## 🛠️ Tech Stack
 
+![JavaScript](https://img.shields.io/badge/JavaScript-54.6-yellow?style=flat-square&logo=javascript)  
+![CSS](https://img.shields.io/badge/CSS-25.3-blue?style=flat-square&logo=css3)  
+![HTML](https://img.shields.io/badge/HTML-20.1-orange?style=flat-square&logo=html5)
+
+
 - **Frontend**: React.js (with Hooks)
 - **Styling**: CSS3/Sass with BEM methodology
 - **Icons**: React Icons
@@ -132,5 +137,4 @@ Project Link: [https://github.com/daveontrack/todo-list-app](https://github.com/
 - 📊 Productivity statistics
 
 
-```
 
