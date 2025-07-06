@@ -124,7 +124,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## ✉️ Contact
 
-Your Name - [@yourtwitter](https://twitter.com/daveontrack) - youremail@example.com
+## ✉️ Contact
+
+Dawit Mengesha Beriso - [@daveontrack](https://twitter.com/daveontrack) - dawitberiso406@gmail.com
 
 Project Link: [https://github.com/daveontrack/todo-list-app](https://github.com/daveontrack/todo-list-app)
 
